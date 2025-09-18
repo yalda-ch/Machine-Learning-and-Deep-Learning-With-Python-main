@@ -1,6 +1,6 @@
 # Project 4 --- Handwritten Character Recognition with EMNIST
 
-**Notebook:** `Yalda_Chamani_Project4.ipynb`\
+**Notebook:** `Yalda Chamani_Project4.ipynb`\
 **Folder:** `project 4`
 
 ------------------------------------------------------------------------
