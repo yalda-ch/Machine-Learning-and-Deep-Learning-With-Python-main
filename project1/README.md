@@ -1,7 +1,7 @@
 # Project 1 — Linear and Polynomial Regression  
 
-**Notebook:** `Machine_&_Deep_Learning_Course_project_1.ipynb`  
-**Folder:** `Project 1`  
+**Notebook:** `Yalda Chamani_Project1.ipynb`  
+**Folder:** `project 1`  
 
 ---
 
