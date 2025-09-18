@@ -1,7 +1,7 @@
 # Project 2 — Linear Regression on California Housing Dataset  
 
-**Notebook:** `Machine_&_Deep_Learning_Course_project_2.ipynb`  
-**Folder:** `Project 2`  
+**Notebook:** `Yalda Chamani_Project2.ipynb`  
+**Folder:** `project 2`  
 
 ---
 
