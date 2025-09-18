@@ -1,7 +1,7 @@
 # Task 1 — Data Visualization and Monotonic Array Check  
 
-**Notebook:** `Task1.ipynb`  
-**Folder:** `Exercise 1`  
+**Notebook:** `task.ipynb`  
+**Folder:** `tasks`  
 
 ---
 
@@ -29,4 +29,4 @@ This notebook contains two exercises designed to build foundational Python progr
 ## 🚀 How to Run  
 1. Open the notebook:  
    ```bash
-   jupyter notebook Task1.ipynb
+   jupyter notebook task.ipynb
