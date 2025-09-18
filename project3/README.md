@@ -1,7 +1,7 @@
 # Project 3 --- Comparative Analysis of Bag-of-Words Representations for Medical Transcript Classification
 
-**Notebook:** `Yalda_Chamani_Project3.ipynb`\
-**Folder:** `Project 3`
+**Notebook:** `Yalda Chamani_Project3.ipynb`\
+**Folder:** `project 3`
 
 ------------------------------------------------------------------------
 
